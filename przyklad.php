@@ -13,6 +13,7 @@
 <?php
 
 echo("hejka");
+echo("czy to w gogole dziala?");
 
 
 ?>
